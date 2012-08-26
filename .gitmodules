@@ -1,0 +1,3 @@
+[submodule "js-test-driver-recursive-glob"]
+	path = js-test-driver-recursive-glob
+	url = https://github.com/davidjnelson/js-test-driver-recursive-glob
