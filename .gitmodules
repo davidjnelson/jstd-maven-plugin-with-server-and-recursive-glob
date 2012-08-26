@@ -1,3 +1,6 @@
 [submodule "js-test-driver-recursive-glob"]
 	path = js-test-driver-recursive-glob
 	url = https://github.com/davidjnelson/js-test-driver-recursive-glob
+[submodule "jstd-maven-plugin"]
+	path = jstd-maven-plugin
+	url = https://code.google.com/p/jstd-maven-plugin/
